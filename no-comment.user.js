@@ -15,3 +15,4 @@ function  clobber_element(elem)
 
 clobber_element(document.getElementById('socialtools'));
 clobber_element(document.getElementById('socialcomments'));
+clobber_element(document.getElementById('socialhead'));
